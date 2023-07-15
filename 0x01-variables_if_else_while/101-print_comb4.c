@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print the last digit stored in the variable n
+ * main - 'print the last digit stored in the variable n'
  * Return: Always 0
  */
 int main(void)
