@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - 'print the last digit stored in the variable n'
+ * main - Entry point
+ * Description -  'print the last digit stored in the variable n'
  * Return: Always 0
  */
 int main(void)
@@ -27,5 +28,4 @@ int main(void)
 	}
 
 	putchar('\n');
-
 	return (0);
